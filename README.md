@@ -1,2 +1,3 @@
-[ Find Your Organic-Product Through Shopping! ]
-*This register will help you!
+# Organic-Product Register
+
+- Created by @ ffm.bio/braeuermusic © 2024
